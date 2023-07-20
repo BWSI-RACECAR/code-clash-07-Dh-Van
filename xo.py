@@ -42,7 +42,7 @@ class Solution:
             if(string.count("X") == string.count("0")):
                  return True
             
-            return FALSE
+            return False
                 
 def main():
     input1=input()
