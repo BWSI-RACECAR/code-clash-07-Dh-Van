@@ -38,7 +38,6 @@ class Solution:
             #return type: boolean
             
             #TODO: Write code below to returnn a boolean value with the solution to the prompt.
-            string = ""
             if(string.count("X") == string.count("0")):
                  return True
             
