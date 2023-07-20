@@ -37,7 +37,7 @@ class Solution:
             #type string: string
             #return type: boolean
             
-            #TODO: Write code below to returnn a boolean value with the solution to the prompt
+        #TODO: Write code below to returnn a boolean value with the solution to the prompt
         return string.count("X") == string.count("0")
                 
 def main():
