@@ -38,7 +38,7 @@ class Solution:
             #return type: boolean
             
         #TODO: Write code below to returnn a boolean value with the solution to the prompt
-        return string.count('X') == string.count('0')
+        return string.count('X') == string.count('O')
                 
 def main():
     input1=input()
